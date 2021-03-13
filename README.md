@@ -1,4 +1,4 @@
-# Fibonacci ![build status](https://travic-ci.org/aristorinjuang/fibonacci.svg?branch=master)
+# Fibonacci [![Build Status](https://travis-ci.org/aristorinjuang/fibonacci.svg?branch=master)](https://travis-ci.org/aristorinjuang/fibonacci)
 The Fibonacci package with various methods that returns the Fibonacci number based on the given index as an example for the Go module.
 
 ## Install
